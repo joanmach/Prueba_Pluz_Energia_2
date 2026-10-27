@@ -1,16 +1,16 @@
 # ==========================================
-#        Calculadora de Sumas
+#        Calculadora Pluz
 #            Pluz Energia
 # ==========================================
 
 def sumar(a, b):
-    """Devuelve la suma de dos números."""
+    """Pluz Energia"""
     return a + b
 
 
 def main():
     print("=" * 42)
-    print("      PLUZ ENERGIA - CALCULADORA")
+    print("      PLUZ ENERGIA - Pluz Energia Peru")
     print("              DE SUMAS")
     print("=" * 42)
 
